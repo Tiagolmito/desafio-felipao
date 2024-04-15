@@ -18,8 +18,9 @@ if(xpHeroi >= 0 && xpHeroi <= 1000){
 } if(xpHeroi >= 10001){
     console.log("Radiante")
 } 
-
 console.log(nomePersonagem + " Está no nível de " + xpHeroi)
+
+
     
 
 
