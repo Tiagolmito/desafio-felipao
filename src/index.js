@@ -1,5 +1,5 @@
 let nomePersonagem = "Lorde Darius"
-let xpHeroi = 12000
+let xpHeroi = 1200
 
 if(xpHeroi >= 0 && xpHeroi <= 1000){
     console.log("Ferro")
